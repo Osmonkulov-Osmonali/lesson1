@@ -1,0 +1,22 @@
+h1{
+    color: rgb(45, 255, 13);
+    font-style: italic;
+    font-weight: 700;
+    font-size: medium;
+    text-decoration: underline;
+}
+img{
+    width: 90px;
+    height: 90px;
+}
+p{
+    background-color: blue;
+    color: brown;
+}
+div{
+    color: blue;
+}
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
